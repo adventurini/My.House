@@ -2,7 +2,7 @@
 
 You can view the deployed application here:
 
-- [https://labs12-real-estate.now.sh](https://labs12-real-estate.now.sh)
+- [https://myhouse-app.sh](https://labs12-real-estate.now.sh)
 
 ----
 
